@@ -1,0 +1,8 @@
+{
+  "name" : "5thOfJuly",
+  "version" : "0.1.0",
+  "description" : "class exercises",
+  "dependencies" : {
+    "chai" : "^1.9.1"
+  }
+}
